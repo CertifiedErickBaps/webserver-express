@@ -11,7 +11,7 @@
 - Despliegues en Heroku y Github
 - Hacer carpetas públicas en la web
 
-##Instala los modulos de node antes de checar el codigo
+## Instala los modulos de node antes de checar el codigo
 ```
 npm install
 ```
