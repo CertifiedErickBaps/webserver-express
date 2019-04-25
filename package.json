@@ -1,0 +1,17 @@
+{
+  "name": "06-http",
+  "version": "1.0.0",
+  "description": "Uso y configuración de Express Servir contenido estático Template engines Handebars Helpers Parciales Variables Despliegues en Heroku y Github Hacer carpetas públicas en la web",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "nodemon": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.4"
+  }
+}
